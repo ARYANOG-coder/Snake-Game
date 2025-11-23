@@ -16,7 +16,7 @@ blue = (50, 153, 213)
 dis_width = 600
 dis_height = 400
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by Aarsh')
+pygame.display.set_caption('Snake Game by Aryan')
 
 clock = pygame.time.Clock()
 snake_block = 10
